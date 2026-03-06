@@ -1,4 +1,4 @@
-# The Newcastle Night Agent
+# The Newcastle Night Spy
 
 ## Run locally
 
